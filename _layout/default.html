@@ -1,21 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://pages-themes.github.io/cayman/assets/css/style.css">
+    <link rel="stylesheet" href="https://pages-themes.github.io/cayman/assets/css/style.css?v=11">
   </head>
   <body>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
+      <!-- Removed GitHub button here -->
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
       <footer class="site-footer">
-        <span class="site-footer-owner">Hosted with <a href="https://pages.github.com">GitHub Pages</a></span>
+        <span class="site-footer-owner">This site is hosted with <a href="https://pages.github.com/">GitHub Pages</a>.</span>
       </footer>
     </main>
   </body>
