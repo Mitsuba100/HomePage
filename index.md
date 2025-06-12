@@ -1,8 +1,10 @@
 ---
 layout: default
-title: My Custom Site
+title: Welcome
 ---
 
-# Hello, GitHub Pages!
+<link rel="stylesheet" href="/assets/css/custom.css">
 
-This is my custom content using the **Cayman** theme.
+# Hello
+
+This Cayman site has **no GitHub button**.
