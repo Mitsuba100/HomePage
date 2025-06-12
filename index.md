@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: My Custom Site
 ---
 
-# Hello World
+# Hello, GitHub Pages!
 
-This is my new Jekyll site using the `minima` theme.
+This is my custom content using the **Cayman** theme.
